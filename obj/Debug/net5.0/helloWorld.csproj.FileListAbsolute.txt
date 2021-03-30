@@ -1,0 +1,15 @@
+/Users/laila/RiderProjects/helloWorld/bin/Debug/net5.0/helloWorld.deps.json
+/Users/laila/RiderProjects/helloWorld/bin/Debug/net5.0/helloWorld.runtimeconfig.json
+/Users/laila/RiderProjects/helloWorld/bin/Debug/net5.0/helloWorld.runtimeconfig.dev.json
+/Users/laila/RiderProjects/helloWorld/bin/Debug/net5.0/helloWorld.dll
+/Users/laila/RiderProjects/helloWorld/bin/Debug/net5.0/ref/helloWorld.dll
+/Users/laila/RiderProjects/helloWorld/bin/Debug/net5.0/helloWorld.pdb
+/Users/laila/RiderProjects/helloWorld/obj/Debug/net5.0/helloWorld.csprojAssemblyReference.cache
+/Users/laila/RiderProjects/helloWorld/obj/Debug/net5.0/helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laila/RiderProjects/helloWorld/obj/Debug/net5.0/helloWorld.AssemblyInfoInputs.cache
+/Users/laila/RiderProjects/helloWorld/obj/Debug/net5.0/helloWorld.AssemblyInfo.cs
+/Users/laila/RiderProjects/helloWorld/obj/Debug/net5.0/helloWorld.csproj.CoreCompileInputs.cache
+/Users/laila/RiderProjects/helloWorld/obj/Debug/net5.0/helloWorld.dll
+/Users/laila/RiderProjects/helloWorld/obj/Debug/net5.0/ref/helloWorld.dll
+/Users/laila/RiderProjects/helloWorld/obj/Debug/net5.0/helloWorld.pdb
+/Users/laila/RiderProjects/helloWorld/obj/Debug/net5.0/helloWorld.genruntimeconfig.cache
